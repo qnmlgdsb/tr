@@ -16,15 +16,15 @@ fi
 
 # CONFIGURATION
 username=""
-read -p "Set username(dadi.me):" username
+read -p "Set username(qnmlgdsb):" username
 if [ "$username" = "" ]; then
-	username="dadi.me"
+	username="qnmlgdsb"
 fi
 
 password=""
-read -p "Set password(dadi.me):" password
+read -p "Set password(qnmlgdsb):" password
 if [ "$password" = "" ]; then
-	password="dadi.me"
+	password="qnmlgdsb"
 fi
 
 port=""
